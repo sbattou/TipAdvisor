@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TipAdvisor</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sommaire">sommaire</string>
+    <string name="title_activity_parametres">parametres</string>
+    <string name="title_activity_suggerer">suggerer</string>
+</resources>
